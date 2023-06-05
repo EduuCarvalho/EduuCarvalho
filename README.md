@@ -28,12 +28,12 @@
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 ![Nest](https://img.shields.io/badge/-Nest-E0234E?style=for-the-badge&logo=nestjs&labelColor=E0234E)&nbsp;
-![REST](https://img.shields.io/badge/-REST-FF5733?style=for-the-badge&labelColor=FF5733)&nbsp;
+[![REST](https://img.shields.io/badge/-REST-FF5733?style=for-the-badge&logo=rest&logoColor=white)](https://en.wikipedia.org/wiki/Representational_state_transfer)
 ![Prisma ORM](https://img.shields.io/badge/-Prisma%20ORM-1B222D?style=for-the-badge&logo=prisma&labelColor=1B222D)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&labelColor=336791)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&labelColor=47A248)&nbsp;
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&labelColor=232F3E)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&labelColor=2496ED)&nbsp;
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
 
 
